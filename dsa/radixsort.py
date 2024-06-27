@@ -19,3 +19,10 @@ while maxVal // exp > 0:
 
     exp *= 10
 print("Sorted array: ",my_array)
+
+
+
+#output
+
+#('Original array:', [170, 45, 75, 90, 802, 24, 2, 66])
+#('Sorted array: ', [2, 24, 45, 66, 75, 90, 170, 802])
